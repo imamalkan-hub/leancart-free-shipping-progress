@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Free Shipping Progress Bar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add %s more to get free shipping."
+msgstr ""
+
+msgid "Congratulations, shipping is free!"
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Example: 500"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Shown when the threshold is reached."
+msgstr ""
+
+msgid "Success message"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Threshold amount (automatic if blank)"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
